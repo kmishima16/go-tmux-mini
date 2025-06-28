@@ -5,10 +5,10 @@ Go言語で実装された軽量なtmux風ターミナルマルチプレクサ�
 ## 📺 デモ
 
 ### 動作イメージ
-![動作イメージ](https://gyazo.com/a4dd2b7f29b4a42650172fe6cad8efc8)
+![動作イメージ](https://gyazo.com/a4dd2b7f29b4a42650172fe6cad8efc8.png)
 
 ### 動作動画
-![動作動画](https://gyazo.com/bf3a6fb3b3c3b793b500097eda9d59a4)
+![動作動画](https://gyazo.com/bf3a6fb3b3c3b793b500097eda9d59a4.gif)
 
 ## ✨ 機能
 
